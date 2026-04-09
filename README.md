@@ -32,11 +32,8 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:phuc.vlhp.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:phuc.vlhp.work@gmail.com)
+
 
 ###
 
